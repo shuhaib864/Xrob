@@ -7,22 +7,22 @@ with the help of Xrob we could able to control our Android device through SMS Co
 What can it do ??
 =================
 
-# Turn ON/OFF Mobile Data
-# Turn ON/OFF WiFi
-# Turn ON/OFF WiFi Tethering
-# Change WiFi Tethering Password
-# Play music from online
-# Change Ringer Mode
-# Vibrate Device
-# Play sounds
-# Change Wallpaper (Google Image API integrated)
-# Resize Wallpaper according to device screen dimensions
-# Sound Recording and Uploading it to server
-# Make Phone Calls
-# Collect device location (GPS)
-# Clean Phone Memmory
-# Clean MemmoryCard
-# Message Grabbing
+- Turn ON/OFF Mobile Data
+- Turn ON/OFF WiFi
+- Turn ON/OFF WiFi Tethering
+- Change WiFi Tethering Password
+- Play music from online
+- Change Ringer Mode
+- Vibrate Device
+- Play sounds
+- Change Wallpaper (Google Image API integrated)
+- Resize Wallpaper according to device screen dimensions
+- Sound Recording and Uploading it to server
+- Make Phone Calls
+- Collect device location (GPS)
+- Clean Phone Memmory
+- Clean MemmoryCard
+- Message Grabbing
 
 Features
 ========
@@ -97,7 +97,8 @@ roger : Record Sound and Upload it to Server
         syntax: xrob roger,Record Duration,
         example : xrob roger,60,
         
-
+         (MORE COMMANDS COMING SOON)....
+         ```
 
 
 
