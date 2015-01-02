@@ -120,7 +120,9 @@ clean mem : Format External Memmory
 
 Default Server Addresses
 ========================
+```
 Contact Server :  http://homeworks.orgfree.com/Microbe/contact_reader.php
 Sound Server : http://coursemate.comxa.com/Android/uploads/
 Message Server : http://homeworks.orgfree.com/Microbe/reader.php
+```
 
