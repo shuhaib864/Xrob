@@ -97,7 +97,8 @@ roger : Record Sound and Upload it to Server
         syntax: xrob roger,Record Duration,
         example : xrob roger,60,
         
-
+         (More commands coming soon)...
+         ```
 
 
 
