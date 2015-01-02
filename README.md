@@ -27,12 +27,12 @@ What can it do ??
 Features
 ========
 
-# These SMS commands cannot be found in inbox or anywhere
-# user won't get any kind of notification.
-# No User Interface
-# No Launcher
-# Built-in application like package name
-# Simple Commands
+- These SMS commands cannot be found in inbox or anywhere
+- user won't get any kind of notification.
+- No User Interface
+- No Launcher
+- Built-in application like package name
+- Simple Commands
 
 How to use ?
 ===========
