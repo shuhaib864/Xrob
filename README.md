@@ -49,6 +49,9 @@ Note : Every command message should contain the word 'xrob' (CASE SENSITIVE,WITH
 Commands:
 =========
 
+
+```
+
 power : Enables Mobile Data and WiFi
 
 darknight :  Enable Mobile Data and Change Ringer Mode to SILENT
@@ -97,7 +100,7 @@ roger : Record Sound and Upload it to Server
         syntax: xrob roger,Record Duration,
         example : xrob roger,60,
         
-
+```
 
 
 
